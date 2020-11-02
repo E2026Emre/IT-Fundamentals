@@ -1,0 +1,26 @@
+.center{
+  display:block;
+  margin:auto;
+  border:solid;
+}
+
+body{
+  margin:80px;
+  background-color:rgb(209, 242, 235);
+}
+
+#quote{
+  text-align:center;
+  font-style:italic;
+  font-size:x-large;
+  background-color:yellow;
+}
+
+h2{
+  text-align:center;
+  color:blue;
+}
+
+tr:hover{
+  background-color:green;
+}
